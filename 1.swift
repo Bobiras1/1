@@ -3,4 +3,4 @@
 //You can write it also as a comment
 //print("E = Andromeda*Andros*Crete*Gemma*Gibberlink_mode*mcmod2")
 //or you could play setting Shakespeare= 1
-print("E = Shakespeare*mcmod2")
+print("3*E = 3*Shakespeare*mcmod2")
